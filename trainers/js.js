@@ -2,7 +2,7 @@
 let i = 1;
 const data = [
  // add data here
-[i++,"Ankita","","./trainers/Ankita/1.bmp","./trainers/Ankita/2.bmp","./trainers/Ankita/3.bmp","./trainers/Ankita/4.bmp","./trainers/Ankita/5.bmp"],
+[i++,"Ankita","57334538","./trainers/Ankita/1.bmp","./trainers/Ankita/2.bmp","./trainers/Ankita/3.bmp","./trainers/Ankita/4.bmp","./trainers/Ankita/5.bmp"],
 [i++,"Pinki","","./trainers/Pinki/1.bmp","./trainers/Pinki/2.bmp","./trainers/Pinki/3.bmp","./trainers/Pinki/4.bmp","./trainers/Pinki/5.bmp"],
          // 1-30 are done....
 // adding more rows..
