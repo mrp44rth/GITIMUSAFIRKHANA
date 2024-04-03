@@ -44,6 +44,15 @@ const data = [
 [i++,"Mahima Yadav","31604376","./SBT/MahimaYadav_31604376/1.bmp","./SBT/MahimaYadav_31604376/2.bmp","./SBT/MahimaYadav_31604376/3.bmp","./SBT/MahimaYadav_31604376/4.bmp","./SBT/MahimaYadav_31604376/5.bmp"],
 [i++,"NehaNishad","75040829","./SBT/NehaNishad_75040829/1.bmp","./SBT/NehaNishad_75040829/2.bmp","./SBT/NehaNishad_75040829/3.bmp","./SBT/NehaNishad_75040829/4.bmp","./SBT/NehaNishad_75040829/5.bmp"],
 [i++,"Neha Yadav","90354510","./SBT/NehaYadav_90354510/1.bmp","./SBT/NehaYadav_90354510/2.bmp","./SBT/NehaYadav_90354510/3.bmp","./SBT/NehaYadav_90354510/4.bmp","./SBT/NehaYadav_90354510/5.bmp"]
+[i++, "Amita Yadav", "36318488", "./SBT/Amita Yadav_36318488/1.bmp", "./SBT/Amita Yadav_36318488/2.bmp", "./SBT/Amita Yadav_36318488/3.bmp", "./SBT/Amita Yadav_36318488/4.bmp", "./SBT/Amita Yadav_36318488/5.bmp"],
+  [i++, "Gudiya", "12963559", "./SBT/Gudiya_12963559/1.bmp", "./SBT/Gudiya_12963559/2.bmp", "./SBT/Gudiya_12963559/3.bmp", "./SBT/Gudiya_12963559/4.bmp", "./SBT/Gudiya_12963559/5.bmp"],
+  [i++, "Pinki", "75767177", "./SBT/Pinki_75767177/1.bmp", "./SBT/Pinki_75767177/2.bmp", "./SBT/Pinki_75767177/3.bmp", "./SBT/Pinki_75767177/4.bmp", "./SBT/Pinki_75767177/5.bmp"],
+  [i++, "Priiyanka Maurya", "44536879", "./SBT/Priiyanka Maurya_44536879/1.bmp", "./SBT/Priiyanka Maurya_44536879/2.bmp", "./SBT/Priiyanka Maurya_44536879/3.bmp", "./SBT/Priiyanka Maurya_44536879/4.bmp", "./SBT/Priiyanka Maurya_44536879/5.bmp"],
+  [i++, "Priya", "29246025", "./SBT/Priya_29246025/1.bmp", "./SBT/Priya_29246025/2.bmp", "./SBT/Priya_29246025/3.bmp", "./SBT/Priya_29246025/4.bmp", "./SBT/Priya_29246025/5.bmp"],
+  [i++, "Shivani", "92305895", "./SBT/Shivani_92305895/1.bmp", "./SBT/Shivani_92305895/2.bmp", "./SBT/Shivani_92305895/3.bmp", "./SBT/Shivani_92305895/4.bmp", "./SBT/Shivani_92305895/5.bmp"],
+  [i++, "Sonali Yadav", "68870643", "./SBT/Sonali Yadav_68870643/1.bmp", "./SBT/Sonali Yadav_68870643/2.bmp", "./SBT/Sonali Yadav_68870643/3.bmp", "./SBT/Sonali Yadav_68870643/4.bmp", "./SBT/Sonali Yadav_68870643/5.bmp"],
+  [i++, "Sonal", "88646089", "./SBT/Sonal_88646089/1.bmp", "./SBT/Sonal_88646089/2.bmp", "./SBT/Sonal_88646089/3.bmp", "./SBT/Sonal_88646089/4.bmp", "./SBT/Sonal_88646089/5.bmp"],
+  [i++, "Vaishnavi Pandey", "67373040", "./SBT/Vaishnavi Pandey_67373040/1.bmp", "./SBT/Vaishnavi Pandey_67373040/2.bmp", "./SBT/Vaishnavi Pandey_67373040/3.bmp", "./SBT/Vaishnavi Pandey_67373040/4.bmp", "./SBT/Vaishnavi Pandey_67373040/5.bmp"],
 
 ];
 
