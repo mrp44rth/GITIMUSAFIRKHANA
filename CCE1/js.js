@@ -61,7 +61,7 @@ function renderTable(data) {
     img.style.width = '100px'; // Set width to auto for actual size
     img.style.height = '100px'; // Set height to auto for actual size
     img.style.transform = 'scaleX(-1)'; // Mirror horizontally
-    img.style.filter = 'contrast(130%) invert(100%)'; // Contrast and color invert
+    img.style.filter = 'contrast(120%) invert(100%)'; // Contrast and color invert
     td.appendChild(img);
 } 
             else {
