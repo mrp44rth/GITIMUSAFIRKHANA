@@ -43,6 +43,12 @@ const data = [
 [i++,"Shivani","56588434","./FAP/Shivani_56588434/1.bmp","./FAP/Shivani_56588434/2.bmp","./FAP/Shivani_56588434/3.bmp","./FAP/Shivani_56588434/4.bmp","./FAP/Shivani_56588434/5.bmp"],
 [i++,"Sonam","86453089","./FAP/Sonam_86453089/1.bmp","./FAP/Sonam_86453089/2.bmp","./FAP/Sonam_86453089/3.bmp","./FAP/Sonam_86453089/4.bmp","./FAP/Sonam_86453089/5.bmp"],
 [i++,"SunitaYadav","27158104","./FAP/SunitaYadav_27158104/1.bmp","./FAP/SunitaYadav_27158104/2.bmp","./FAP/SunitaYadav_27158104/3.bmp","./FAP/SunitaYadav_27158104/4.bmp","./FAP/SunitaYadav_27158104/5.bmp"]
+[i++, "Anshu", "49974388", "./FAP/Anshu_49974388/1.bmp", "./FAP/Anshu_49974388/2.bmp", "./FAP/Anshu_49974388/3.bmp", "./FAP/Anshu_49974388/4.bmp", "./FAP/Anshu_49974388/5.bmp"],
+  [i++, "Khushbu Varma", "82451623", "./FAP/Khushbu Varma_82451623/1.bmp", "./FAP/Khushbu Varma_82451623/2.bmp", "./FAP/Khushbu Varma_82451623/3.bmp", "./FAP/Khushbu Varma_82451623/4.bmp", "./FAP/Khushbu Varma_82451623/5.bmp"],
+  [i++, "Neha", "03192939", "./FAP/Neha_03192939/1.bmp", "./FAP/Neha_03192939/2.bmp", "./FAP/Neha_03192939/3.bmp", "./FAP/Neha_03192939/4.bmp", "./FAP/Neha_03192939/5.bmp"],
+  [i++, "Savita", "58608967", "./FAP/Savita_58608967/1.bmp", "./FAP/Savita_58608967/2.bmp", "./FAP/Savita_58608967/3.bmp", "./FAP/Savita_58608967/4.bmp", "./FAP/Savita_58608967/5.bmp"],
+  [i++, "Sonam", "73199791", "./FAP/Sonam_73199791/1.bmp", "./FAP/Sonam_73199791/2.bmp", "./FAP/Sonam_73199791/3.bmp", "./FAP/Sonam_73199791/4.bmp", "./FAP/Sonam_73199791/5.bmp"],
+  [i++, "Sonam", "73623002", "./FAP/Sonam_73623002/1.bmp", "./FAP/Sonam_73623002/2.bmp", "./FAP/Sonam_73623002/3.bmp", "./FAP/Sonam_73623002/4.bmp", "./FAP/Sonam_73623002/5.bmp"],
 
 ];
 
