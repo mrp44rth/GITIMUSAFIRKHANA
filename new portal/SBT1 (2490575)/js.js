@@ -36,7 +36,6 @@ const data = [
   [i++, "ROOPA", "96162073", "./data/ROOPA_96162073/1.bmp", "./data/ROOPA_96162073/2.bmp", "./data/ROOPA_96162073/3.bmp", "./data/ROOPA_96162073/4.bmp", "./data/ROOPA_96162073/5.bmp"],
   [i++, "SARITA", "34514148", "./data/SARITA_34514148/1.bmp", "./data/SARITA_34514148/2.bmp", "./data/SARITA_34514148/3.bmp", "./data/SARITA_34514148/4.bmp", "./data/SARITA_34514148/5.bmp"],
   [i++, "SBT Laxmi-71", "NOT A VALID ID", "./data/SBT Laxmi-71/1.bmp", "./data/SBT Laxmi-71/2.bmp", "./data/SBT Laxmi-71/3.bmp", "./data/SBT Laxmi-71/4.bmp", "./data/SBT Laxmi-71/5.bmp"],
-  [i++, "SBT Komal-41 (4)", "NOT A VALID ID", "./data/SBT Komal-41 (4)/1.bmp", "./data/SBT Komal-41 (4)/2.bmp", "./data/SBT Komal-41 (4)/3.bmp", "./data/SBT Komal-41 (4)/4.bmp", "./data/SBT Komal-41 (4)/5.bmp"],
   [i++, "SejalPandey", "6475232", "./data/SejalPandey_6475232/1.bmp", "./data/SejalPandey_6475232/2.bmp", "./data/SejalPandey_6475232/3.bmp", "./data/SejalPandey_6475232/4.bmp", "./data/SejalPandey_6475232/5.bmp"],
   [i++, "Shweta", "43846701", "./data/Shweta_43846701/1.bmp", "./data/Shweta_43846701/2.bmp", "./data/Shweta_43846701/3.bmp", "./data/Shweta_43846701/4.bmp", "./data/Shweta_43846701/5.bmp"],
   [i++, "Srishti", "25354261", "./data/Srishti_25354261/1.bmp", "./data/Srishti_25354261/2.bmp", "./data/Srishti_25354261/3.bmp", "./data/Srishti_25354261/4.bmp", "./data/Srishti_25354261/5.bmp"],
