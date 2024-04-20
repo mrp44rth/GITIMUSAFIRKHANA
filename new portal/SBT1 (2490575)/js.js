@@ -9,6 +9,8 @@ const data = [
   [i++, "ARCHANA", "36318488", "./data/ARCHANA_36318488/1.bmp", "./data/ARCHANA_36318488/2.bmp", "./data/ARCHANA_36318488/3.bmp", "./data/ARCHANA_36318488/4.bmp", "./data/ARCHANA_36318488/5.bmp"],
   [i++, "ArtiYadav", "92227266", "./data/ArtiYadav_92227266/1.bmp", "./data/ArtiYadav_92227266/2.bmp", "./data/ArtiYadav_92227266/3.bmp", "./data/ArtiYadav_92227266/4.bmp", "./data/ArtiYadav_92227266/5.bmp"],
   [i++, "Chandani", "92732597", "./data/Chandani_92732597/1.bmp", "./data/Chandani_92732597/2.bmp", "./data/Chandani_92732597/3.bmp", "./data/Chandani_92732597/4.bmp", "./data/Chandani_92732597/5.bmp"],
+    [i++, "Chandani", "16799582", "./data/Chandani_16799582/1.bmp", "./data/Chandani_16799582/2.bmp", "./data/Chandani_16799582/3.bmp", "./data/Chandani_16799582/4.bmp", "./data/Chandani_16799582/5.bmp"],
+
   [i++, "Diksha", "21464115", "./data/Diksha_21464115/1.bmp", "./data/Diksha_21464115/2.bmp", "./data/Diksha_21464115/3.bmp", "./data/Diksha_21464115/4.bmp", "./data/Diksha_21464115/5.bmp"],
   [i++, "Jashanpreet", "5911984", "./data/Jashanpreet_5911984/1.bmp", "./data/Jashanpreet_5911984/2.bmp", "./data/Jashanpreet_5911984/3.bmp", "./data/Jashanpreet_5911984/4.bmp", "./data/Jashanpreet_5911984/5.bmp"],
   [i++, "JyotiYadav", "60524560", "./data/JyotiYadav_60524560/1.bmp", "./data/JyotiYadav_60524560/2.bmp", "./data/JyotiYadav_60524560/3.bmp", "./data/JyotiYadav_60524560/4.bmp", "./data/JyotiYadav_60524560/5.bmp"],
