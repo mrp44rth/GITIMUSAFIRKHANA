@@ -2,6 +2,7 @@ let i=1;
 const data = [
 [i++, "Abhay Sen Yadav", "69058207", "./data/Abhay Sen Yadav_69058207/1.bmp", "./data/Abhay Sen Yadav_69058207/2.bmp", "./data/Abhay Sen Yadav_69058207/3.bmp", "./data/Abhay Sen Yadav_69058207/4.bmp", "./data/Abhay Sen Yadav_69058207/5.bmp"],
   [i++, "Aman Maurya", "12598331", "./data/Aman Maurya_12598331/1.bmp", "./data/Aman Maurya_12598331/2.bmp", "./data/Aman Maurya_12598331/3.bmp", "./data/Aman Maurya_12598331/4.bmp", "./data/Aman Maurya_12598331/5.bmp"],
+    [i++, "AnkitPal", "27569981", "./data/AnkitPal_27569981/1.bmp", "./data/AnkitPal_27569981/2.bmp", "./data/AnkitPal_27569981/3.bmp", "./data/AnkitPal_27569981/4.bmp", "./data/AnkitPal_27569981/5.bmp"],
   [i++, "ANURAG", "22557184", "./data/ANURAG_22557184/1.bmp", "./data/ANURAG_22557184/2.bmp", "./data/ANURAG_22557184/3.bmp", "./data/ANURAG_22557184/4.bmp", "./data/ANURAG_22557184/5.bmp"],
   [i++, "Dev Sangam Shukla", "30076343", "./data/Dev Sangam Shukla_30076343/1.bmp", "./data/Dev Sangam Shukla_30076343/2.bmp", "./data/Dev Sangam Shukla_30076343/3.bmp", "./data/Dev Sangam Shukla_30076343/4.bmp", "./data/Dev Sangam Shukla_30076343/5.bmp"],
   [i++, "Dileep", "13040151", "./data/Dileep_13040151/1.bmp", "./data/Dileep_13040151/2.bmp", "./data/Dileep_13040151/3.bmp", "./data/Dileep_13040151/4.bmp", "./data/Dileep_13040151/5.bmp"],
@@ -25,7 +26,7 @@ const data = [
   [i++, "Sushil Kumar", "61857780", "./data/Sushil Kumar_61857780/1.bmp", "./data/Sushil Kumar_61857780/2.bmp", "./data/Sushil Kumar_61857780/3.bmp", "./data/Sushil Kumar_61857780/4.bmp", "./data/Sushil Kumar_61857780/5.bmp"],
  [i++, "Vikram Yadav", "32495369", "./data/Vikram Yadav_32495369/1.bmp", "./data/Vikram Yadav_32495369/2.bmp", "./data/Vikram Yadav_32495369/3.bmp", "./data/Vikram Yadav_32495369/4.bmp", "./data/Vikram Yadav_32495369/5.bmp"],
   [i++, "Shiv Moorat", "19848663", "./data/Shiv Moorat_19848663/1.bmp", "./data/Shiv Moorat_19848663/2.bmp", "./data/Shiv Moorat_19848663/3.bmp", "./data/Shiv Moorat_19848663/4.bmp", "./data/Shiv Moorat_19848663/5.bmp"],
- 
+   [i++, "ShilamMishra", "81273345", "./data/ShilamMishra_81273345/1.bmp", "./data/ShilamMishra_81273345/2.bmp", "./data/ShilamMishra_81273345/3.bmp", "./data/ShilamMishra_81273345/4.bmp", "./data/ShilamMishra_81273345/5.bmp"],
  [i++, "Vikash Yadav", "6679517", "./data/Vikash Yadav_6679517/1.bmp", "./data/Vikash Yadav_6679517/2.bmp", "./data/Vikash Yadav_6679517/3.bmp", "./data/Vikash Yadav_6679517/4.bmp", "./data/Vikash Yadav_6679517/5.bmp"],
   [i++, "Vishal", "13611738", "./data/Vishal_13611738/1.bmp", "./data/Vishal_13611738/2.bmp", "./data/Vishal_13611738/3.bmp", "./data/Vishal_13611738/4.bmp", "./data/Vishal_13611738/5.bmp"],
 
