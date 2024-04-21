@@ -5,7 +5,8 @@ const data = [
 [i++,"Ankita","57334538","./trainers/Ankita/1.bmp","./trainers/Ankita/2.bmp","./trainers/Ankita/3.bmp","./trainers/Ankita/4.bmp","./trainers/Ankita/5.bmp"],
 [i++,"Pinki","88239824","./trainers/Pinki/1.bmp","./trainers/Pinki/2.bmp","./trainers/Pinki/3.bmp","./trainers/Pinki/4.bmp","./trainers/Pinki/5.bmp"],
  [i++,"Mohit","47690306","./trainers/Mohit/1.bmp","./trainers/Mohit/2.bmp","./trainers/Mohit/3.bmp","./trainers/Mohit/4.bmp","./trainers/Mohit/5.bmp"],
-   [i++, "Vaishali Sharma", "92166322", "./trainers/vaishali sharma_92166322/1.bmp", "./trainers/vaishali sharma_92166322/2.bmp", "./trainers/vaishali sharma_92166322/3.bmp", "./trainers/vaishali sharma_92166322/4.bmp", "./trainers/vaishali sharma_92166322/5.bmp"]
+   [i++, "Vaishali Sharma", "92166322", "./trainers/vaishali sharma_92166322/1.bmp", "./trainers/vaishali sharma_92166322/2.bmp", "./trainers/vaishali sharma_92166322/3.bmp", "./trainers/vaishali sharma_92166322/4.bmp", "./trainers/vaishali sharma_92166322/5.bmp"],
+   [i++, "Hemant", "76334842", "./trainers/hemant/1.bmp", "./trainers/hemant/2.bmp", "./trainers/hemant/3.bmp", "./trainers/hemant/4.bmp", "./trainers/hemant/5.bmp"],
 
 
          // 1-30 are done....
