@@ -7,6 +7,7 @@ const data = [
  [i++,"Mohit","47690306","./trainers/Mohit/1.bmp","./trainers/Mohit/2.bmp","./trainers/Mohit/3.bmp","./trainers/Mohit/4.bmp","./trainers/Mohit/5.bmp"],
    [i++, "Vaishali Sharma", "92166322", "./trainers/vaishali sharma_92166322/1.bmp", "./trainers/vaishali sharma_92166322/2.bmp", "./trainers/vaishali sharma_92166322/3.bmp", "./trainers/vaishali sharma_92166322/4.bmp", "./trainers/vaishali sharma_92166322/5.bmp"],
    [i++, "Hemant", "76334842", "./trainers/hemant/1.bmp", "./trainers/hemant/2.bmp", "./trainers/hemant/3.bmp", "./trainers/hemant/4.bmp", "./trainers/hemant/5.bmp"],
+   [i++, "PreetiMishra", "68526813", "./trainers/PreetiMishra_68526813/1.bmp", "./trainers/PreetiMishra_68526813/2.bmp", "./trainers/PreetiMishra_68526813/3.bmp", "./trainers/PreetiMishra_68526813/4.bmp", "./trainers/PreetiMishra_68526813/5.bmp"],
 
 
          // 1-30 are done....
